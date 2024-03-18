@@ -11,6 +11,9 @@ connection: "ligo_lake"
 
 explore: cash_out_ligo_evolutivo {
 }
+explore: promedio_periodo_cash_out_ligo_bancos {
+}
+
 #
 #   join: users {
 #     relationship: many_to_one
