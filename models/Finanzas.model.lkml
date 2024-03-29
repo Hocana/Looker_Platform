@@ -18,6 +18,21 @@ explore:  cash_out_ligo_evolutivo {
 explore: promedio_periodo_cash_out_ligo_bancos  {
 
   }
+
+explore: max_promedios_soles_cash_out  {
+
+}
+explore: max_prom_dolares_cash_out  {
+
+}
+explore: prom_4_semanas_cashout_soles  {
+
+}
+explore: prom_4semanas_cashout_dolares {
+
+}
+
+
 #   join: users {
 #     relationship: many_to_one
 #     sql_on: ${users.id} = ${orders.user_id} ;;
