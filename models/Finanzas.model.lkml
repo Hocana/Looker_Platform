@@ -31,6 +31,9 @@ explore: prom_4_semanas_cashout_soles  {
 explore: prom_4semanas_cashout_dolares {
 
 }
+explore: cash_out_prom_max_anual {
+
+}
 
 
 #   join: users {
